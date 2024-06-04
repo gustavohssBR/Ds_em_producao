@@ -1,16 +1,12 @@
-Ótimo! Aqui está uma versão atualizada do README.txt com as informações sobre o bot do Telegram:
-
----
-
-# Previsão de Vendas para Lojas da Rossmann
+# Previsão de Receita para Reforma das Lojas da Rossmann
 
 ## 1. Problema de Negócio
 
-O CFO da empresa Rossmann realizou uma reunião com todos os gerentes de lojas e solicitou que cada um deles trouxesse uma previsão diária das próximas 6 semanas de vendas. Após essa reunião, todos os gerentes das lojas entraram em contato solicitando uma previsão de vendas para suas respectivas lojas.
+A diretoria da Rossmann identificou que uma reforma nas lojas é necessária para melhorar a experiência do cliente e impulsionar as vendas. No entanto, para realizar essas reformas de maneira eficiente, é crucial ter uma previsão precisa da receita que cada loja irá gerar nas próximas 6 semanas. Portanto, o objetivo deste projeto é fornecer previsões diárias de receita para as próximas 6 semanas para todas as lojas da Rossmann.
 
 ## 2. Objetivo do Projeto
 
-O objetivo deste projeto é fornecer previsões diárias de vendas para as próximas 6 semanas para todas as lojas da Rossmann. Essas previsões irão auxiliar os gerentes das lojas a planejarem suas operações e estratégias de vendas de maneira mais eficiente.
+O objetivo deste projeto é prever a receita diária das lojas da Rossmann para as próximas 6 semanas, permitindo que a diretoria planeje e aloque recursos de maneira eficaz para as reformas das lojas.
 
 ## 3. Dados Utilizados
 
@@ -48,19 +44,21 @@ A solução envolve os seguintes passos:
    - Ajuste fino dos hiperparâmetros para melhorar a precisão da previsão.
 
 5. **Geração de Previsões:**
-   - Geração das previsões diárias de vendas para as próximas 6 semanas.
+   - Geração das previsões diárias de receita para as próximas 6 semanas.
    - Apresentação dos resultados de forma clara e compreensível.
 
 ## 6. Produto Final do Projeto
 
-O produto final é um bot no Telegram que fornece previsões diárias de vendas para as próximas 6 semanas para cada loja da Rossmann. O bot pode ser acessado através do link: [Bot do Telegram Rossmann](https://t.me/rossmannghss_bot).
+O produto final é um bot no Telegram que fornece previsões diárias de receita para as próximas 6 semanas para cada loja da Rossmann. O bot pode ser acessado através do link: [Bot do Telegram Rossmann](https://t.me/rossmannghss_bot).
 
 ## 7. Conclusão
 
-Este projeto visa fornecer previsões precisas e acionáveis para as vendas das lojas da Rossmann nas próximas 6 semanas. Utilizando técnicas avançadas de análise de dados e aprendizado de máquina, a previsão permitirá que os gerentes de lojas planejem melhor suas operações e maximizem suas vendas.
+Este projeto visa fornecer previsões precisas e acionáveis de receita para as lojas da Rossmann nas próximas 6 semanas. Utilizando técnicas avançadas de análise de dados e aprendizado de máquina, a previsão permitirá que a diretoria planeje melhor as reformas das lojas e aloque recursos de forma eficiente.
 
 ### Próximos Passos
 
 - Refinar os modelos de previsão para melhorar a precisão.
-- Integrar novas fontes de dados que possam influenciar as vendas, como condições climáticas e eventos locais.
+- Integrar novas fontes de dados que possam influenciar a receita das lojas, como condições climáticas e eventos locais.
 - Desenvolver novos filtros e funcionalidades no bot para uma interação mais detalhada e personalizada.
+
+
