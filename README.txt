@@ -2,11 +2,11 @@
 
 ## 1. Problema de Negócio
 
-A diretoria da Rossmann identificou que uma reforma nas lojas é necessária para melhorar a experiência do cliente e impulsionar as vendas. No entanto, para realizar essas reformas de maneira eficiente, é crucial ter uma previsão precisa da receita que cada loja irá gerar nas próximas 6 semanas. Portanto, o objetivo deste projeto é fornecer previsões diárias de receita para as próximas 6 semanas para todas as lojas da Rossmann.
+O CFO da Rossmann identificou a necessidade de reformar as lojas para melhorar a experiência do cliente e impulsionar as vendas. Para realizar essas reformas de maneira eficiente, é crucial ter uma previsão precisa da receita que cada loja irá gerar nas próximas 6 semanas. Portanto, o CFO solicitou a criação deste projeto para fornecer previsões diárias de receita para todas as lojas da Rossmann.
 
 ## 2. Objetivo do Projeto
 
-O objetivo deste projeto é prever a receita diária das lojas da Rossmann para as próximas 6 semanas, permitindo que a diretoria planeje e aloque recursos de maneira eficaz para as reformas das lojas.
+O objetivo deste projeto é prever a receita diária das lojas da Rossmann para as próximas 6 semanas, permitindo que o CFO planeje e aloque recursos de maneira eficaz para as reformas das lojas.
 
 ## 3. Dados Utilizados
 
@@ -53,12 +53,13 @@ O produto final é um bot no Telegram que fornece previsões diárias de receita
 
 ## 7. Conclusão
 
-Este projeto visa fornecer previsões precisas e acionáveis de receita para as lojas da Rossmann nas próximas 6 semanas. Utilizando técnicas avançadas de análise de dados e aprendizado de máquina, a previsão permitirá que a diretoria planeje melhor as reformas das lojas e aloque recursos de forma eficiente.
+Este projeto visa fornecer previsões precisas e acionáveis de receita para as lojas da Rossmann nas próximas 6 semanas. Utilizando técnicas avançadas de análise de dados e aprendizado de máquina, a previsão permitirá que o CFO planeje melhor as reformas das lojas e aloque recursos de forma eficiente.
 
 ### Próximos Passos
 
 - Refinar os modelos de previsão para melhorar a precisão.
 - Integrar novas fontes de dados que possam influenciar a receita das lojas, como condições climáticas e eventos locais.
 - Desenvolver novos filtros e funcionalidades no bot para uma interação mais detalhada e personalizada.
+
 
 
