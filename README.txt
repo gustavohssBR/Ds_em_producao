@@ -49,7 +49,7 @@ A solução envolve os seguintes passos:
 
 ## 6. Produto Final do Projeto
 
-O produto final é um bot no Telegram que fornece previsões diárias de receita para as próximas 6 semanas para cada loja da Rossmann. O bot pode ser acessado através do link: [Bot do Telegram Rossmann](https://t.me/rossmannghss_bot).
+O produto final é um bot no Telegram que fornece previsões diárias de receita para as próximas 6 semanas para cada loja da Rossmann. O bot pode ser acessado através do link: https://t.me/rossmann_ghss_bot
 
 ## 7. Conclusão
 
